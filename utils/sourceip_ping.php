@@ -3,7 +3,7 @@
 # ソースIPを指定してtargetにPINGをする
 # targetのARPをいろいろ呼び起こす
 
-$target = array("124.35.29.1");
+$target = array("10.1.1.1");
 
 if($argv) {
 
